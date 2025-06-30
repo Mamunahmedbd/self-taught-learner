@@ -28,3 +28,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 ![Screenshot 8](public/screenshots/Screenshot_8.png)
 ![Screenshot 9](public/screenshots/Screenshot_9.png)
 ![Screenshot 10](public/screenshots/Screenshot_10.png)
+
+# Video
+
+![Video](public/screenshots/intro-video.mp4)
