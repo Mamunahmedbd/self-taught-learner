@@ -21,7 +21,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 # Screenshots
 
 ![Screenshot 1](screenshots/Screenshot_1.png)
-![Screenshot 3](public/screenshots/Screenshot_3.png)
+![Screenshot 3](public/screenshot/Screenshot_3.png)
 ![Screenshot 5](public/screenshots/Screenshot_5.png)
 ![Screenshot 6](public/screenshots/Screenshot_6.png)
 ![Screenshot 7](public/screenshots/Screenshot_7.png)
