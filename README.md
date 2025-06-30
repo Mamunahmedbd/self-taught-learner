@@ -18,13 +18,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-# ScreenShots
+# Screenshots
 
-![ScreenShot](/screenshots/Screenshot_1.png)
-![ScreenShot](/public/screenshots/Screenshot_3.png)
-![ScreenShot](/public/screenshots/Screenshot_5.png)
-![ScreenShot](/public/screenshots/Screenshot_6.png)
-![ScreenShot](/public/screenshots/Screenshot_7.png)
-![ScreenShot](/public/screenshots/Screenshot_8.png)
-![ScreenShot](/public/screenshots/Screenshot_9.png)
-![ScreenShot](/public/screenshots/Screenshot_10.png)
+![Screenshot 1](screenshots/Screenshot_1.png)
+![Screenshot 3](public/screenshots/Screenshot_3.png)
+![Screenshot 5](public/screenshots/Screenshot_5.png)
+![Screenshot 6](public/screenshots/Screenshot_6.png)
+![Screenshot 7](public/screenshots/Screenshot_7.png)
+![Screenshot 8](public/screenshots/Screenshot_8.png)
+![Screenshot 9](public/screenshots/Screenshot_9.png)
+![Screenshot 10](public/screenshots/Screenshot_10.png)
